@@ -11,11 +11,16 @@ Performance is evaluated using Average Accuracy, Average Precision, Average Reca
 
 Average Accuracy:
 
-Decision Tree Claasifier : 67.46 % 
+    Decision Tree Claasifier : 67.46 % 
 
-Random Forest Classifier: 73.04 %
+    Random Forest Classifier: 73.04 %
 
-kernal - Support Vector Machine:
+    Kernal-Support Vector Machine: 71.67 %
 
-k - Nearest Neighbour:
+    K-Nearest Neighbour: 
+
+Clearly, Random Forest predicts better accurate results than other machine learning classifiers. k-Nearest Neighbour predict least accurate results. 
+
+
+
 
