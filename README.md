@@ -17,7 +17,7 @@ Average Accuracy:
 
     Kernal-Support Vector Machine: 71.67 %
 
-    K-Nearest Neighbour: 
+    K-Nearest Neighbour: 60.54%
 
 Clearly, Random Forest predicts better accurate results than other machine learning classifiers. k-Nearest Neighbour predict least accurate results. 
 
